@@ -3,4 +3,8 @@
     <string name="upper_text">Conjuntion (AND)</string>
     <string name="T_set">T</string>
     <string name="F_set">F</string>
+    <string name="Answer_Text">Answer</string>
+    <string name="Submit_Text">Submit</string>
+    <string name="Correct_Text">CORRECT</string>
+    <string name="Incorrect_Text">INCORRECT</string>
 </resources>
